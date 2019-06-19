@@ -1,3 +1,5 @@
-a=10
-b=20
-print(a+b)
+hungry=input("Are you hungry:")
+if hungry=="yes":
+    print("Eat somthing")
+else:
+    print("Do your work")
